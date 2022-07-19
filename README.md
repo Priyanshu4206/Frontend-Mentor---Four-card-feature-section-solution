@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor - Four card feature section solution]()
+- Solution URL: [Frontend Mentor - Four card feature section solution](https://four-card-feature-sections-examplesite.netlify.app/)
 
 ### Built with
 
@@ -37,5 +37,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Frontend Mentor - Four card feature section solution]()
+- Website - [Frontend Mentor - Four card feature section solution](https://four-card-feature-sections-examplesite.netlify.app/)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
